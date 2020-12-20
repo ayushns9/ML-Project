@@ -2,7 +2,7 @@
 ML Project code submission       
 
 ## Final Model
-To run the model and reproduce the accuracy obtained by us on the test file the following command is to be run: `python3 finalModel.py`.
+To run the model and reproduce the accuracy obtained by us on the test file the following command is to be run: `python3 finalModel.py`. It consists of an ensemble model of numerical data and book summary.
 
 ## Dataset
 All data can be found in `/data` folder.
