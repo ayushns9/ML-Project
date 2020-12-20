@@ -6,7 +6,7 @@ To run the model and reproduce the accuracy obtained by us on the test file the 
 
 ## Dataset
 All data can be found in `/data` folder.
-Original data is in `data/alldata.csv`     
+Original data can be downloaded from `https://drive.google.com/file/d/1MXzUW8R1dT9QdF252eqTlMPs1BSptTch/view?usp=sharing`.     
 Preprocessed training data: `data/data_train.csv`     
 Preprocessed testing data: `data/data_test.csv`    
 
