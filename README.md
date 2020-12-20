@@ -10,6 +10,16 @@ Original data is in `data/alldata.csv`
 Preprocessed training data: `data/data_train.csv`     
 Preprocessed testing data: `data/data_test.csv`    
 
+## EDA
+For reproducing the Exploratory Data Analysis please run `data_analysis.ipynb`
+
+## Methodology
+![](./methodology/preprocessing.png)
+![](./methodology/finalModel.png)
+![](./methodology/cnn.png)
+![](./methodology/nn.png)
+![](./methodology/methodology.png)
+
 ## Results
 **Results from numerical data**      
 For reproducing any results regarding models that were run on numerical data please run `rating_from_numerical_data.ipynb`. This file runs the following models on the numerical data:
